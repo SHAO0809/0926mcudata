@@ -1,7 +1,4 @@
 name: get stock price
-
-	 
-
 	on:
 
 	  schedule:
