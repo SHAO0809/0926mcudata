@@ -1,5 +1,4 @@
 name: get stock price
-
 on:
   schedule:
     - cron: "*/1 1-5 * * 1-5"
